@@ -4,7 +4,7 @@ PhD researcher at Pachhunga University College, Mizoram University working on **
 
 **All projects, explained** → [angsumandas.angsumi.online](https://angsumandas.angsumi.online/)  
 **Research** → [Academic profile](https://angsumi.online/cv/) · [PhD project](https://angsumi.online/PhD/)  
-**Analysis services** → [angsumi.online](https://angsumi.online) · [Blog](https://angsumi.online/blog/) · [Learn bioinformatics](https://learn.angsumi.online/) · [Tools](https://tools.angsumi.online/)
+**Analysis services** → [angsumi.online](https://angsumi.online) · [Blog](https://blog.angsumi.online/) · [Learn bioinformatics](https://learn.angsumi.online/) · [Metagenomics toolkit](https://tools.angsumi.online/) *(in planning)*
 
 ---
 
