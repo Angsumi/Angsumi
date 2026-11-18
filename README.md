@@ -1,9 +1,10 @@
 ### Hi, I'm Angsuman Das
 
-PhD researcher at Mizoram University working on **computational microbiome science and machine learning**. My thesis studies how contact with people reshapes the cattle gut microbiome and resistome, from a One Health perspective. I also run **[ANGSUMI](https://angsumi.online)**, a small bioinformatics and scientific data-analysis practice for research labs.
+PhD researcher at Pachhunga University College, Mizoram University working on **computational microbiome science and machine learning**. My thesis studies how contact with people reshapes the cattle gut microbiome and resistome, from a One Health perspective. I also run **[ANGSUMI](https://angsumi.online)**, a small bioinformatics and scientific data-analysis practice for research labs.
 
+**All projects, explained** → [angsumandas.angsumi.online](https://angsumandas.angsumi.online/)  
 **Research** → [Academic profile](https://angsumi.online/cv/) · [PhD project](https://angsumi.online/PhD/)  
-**Analysis services** → [angsumi.online](https://angsumi.online) · [Planning guides](https://angsumi.online/resources/)
+**Analysis services** → [angsumi.online](https://angsumi.online) · [Blog](https://angsumi.online/blog/) · [Learn bioinformatics](https://learn.angsumi.online/) · [Tools](https://tools.angsumi.online/)
 
 ---
 
